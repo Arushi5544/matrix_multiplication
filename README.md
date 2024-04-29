@@ -17,10 +17,14 @@ The program performs the following steps:
 ## Output Display:
 * Prints the input matrices and the resulting matrix after multiplication.
 
+# Files:
+matrix_mul.c: Contains the C code for the convolution program.
+README.md: Instructions and information about the program.
+
 # How to Use in Windows
 ## Compile:
 * Compile the C program using a C compiler. For example:
-`gcc matrix_multiplication.c`
+`gcc matrix_mul.c`
 ## Run:
 * Execute the compiled program:
 `./a.exe`
